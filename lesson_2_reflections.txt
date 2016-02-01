@@ -21,3 +21,9 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 
 	It helps to show what commits each branch contains and what the most recent commits are.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	
+	So that the changes reflected in one branch will also be in another branch. Because each branch
+	comes off of a previous commit, so the graph shows which commit a branch originated from so that
+	it easy to tell what commits are not included in that branch.
