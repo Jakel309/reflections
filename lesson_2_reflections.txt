@@ -12,3 +12,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 	You can check to see what files were changed and what changes were made to ensure that they only correspond 
 	to one logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When there are possibly major changes to the application. Branches can prevent creating a version of the
+	application that is unusable, since there can always be one that is working on master.
