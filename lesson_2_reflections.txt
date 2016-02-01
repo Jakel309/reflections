@@ -27,3 +27,9 @@ What is the result of merging two branches together? Why do we represent it in t
 	So that the changes reflected in one branch will also be in another branch. Because each branch
 	comes off of a previous commit, so the graph shows which commit a branch originated from so that
 	it easy to tell what commits are not included in that branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	With automatic merging, code that you may not want added to your branch may be added, though some time is
+	save, since you don't have to look over all changes. Manually merging makes certain that only the code
+	you want is merged, but this can be rather time consuming.
