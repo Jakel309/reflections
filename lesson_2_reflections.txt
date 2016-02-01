@@ -7,3 +7,8 @@ How is the staging area different from the working directory and the repository?
 	The staging area is proposed changes, whereas the working directory all of the changes are already there
 	and the repository also contains changes that exist. The staging offers the opportunity to remove changes
 	you don't want to commit or to not commit certain files that you may not want to commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	You can check to see what files were changed and what changes were made to ensure that they only correspond 
+	to one logical change.
