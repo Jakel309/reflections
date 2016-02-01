@@ -17,3 +17,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 	When there are possibly major changes to the application. Branches can prevent creating a version of the
 	application that is unusable, since there can always be one that is working on master.
+
+How do the diagrams help you visualize the branch structure?
+
+	It helps to show what commits each branch contains and what the most recent commits are.
